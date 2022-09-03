@@ -8,8 +8,8 @@ A python module to perform simple pattern matching on (relative) paths.
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/python-module-jk-pathpatternmatcher)
-* [pypi.python.org](https://pypi.python.org/pypi/jk_pathpatternmatcher)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-pathpatternmatcher)
+* [pypi.org](https://pypi.org/project/jk_pathpatternmatcher/)
 
 How to use this module
 ----------------------
